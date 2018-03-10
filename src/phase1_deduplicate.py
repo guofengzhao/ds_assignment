@@ -57,7 +57,7 @@ from datetime import datetime
 # Tunable parameters
 
 # input and output file names
-
+"""
 fname_dblp = "../inputs/DBLP1000.csv"
 fname_scholar = "../inputs/Scholar2000.csv"
 fname_result = "../outputs/DBLP1000_Scholar2000_perfectMapping_GuofengZhao.csv"
@@ -74,11 +74,11 @@ fname_dblp_clean = "../outputs/DBLP_clean.csv"
 fname_dblp_dupe = "../outputs/DBLP_dupe.csv"
 fname_scholar_clean = "../outputs/Scholar_clean.csv"
 fname_scholar_dupe = "../outputs/Scholar_dupe.csv"
-"""
+
 # similarity thresholds
-title_similarity_threshold = 0.93
+title_similarity_threshold = 0.90
 authors_similarity_threshold = 0.50
-venue_similarity_threshold = 0.93
+venue_similarity_threshold = 0.90
 year_similarity_threshold = 0.99
 
 # default distance method, one of 'difflib', 'levenshtein', 'sorensen', or 'jaccard'

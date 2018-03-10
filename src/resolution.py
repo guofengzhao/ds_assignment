@@ -76,9 +76,9 @@ fname_scholar_clean = "../outputs/Scholar_clean.csv"
 fname_scholar_dupe = "../outputs/Scholar_dupe.csv"
 
 # similarity thresholds
-title_similarity_threshold = 0.93
+title_similarity_threshold = 0.90
 authors_similarity_threshold = 0.50
-venue_similarity_threshold = 0.93
+venue_similarity_threshold = 0.90
 year_similarity_threshold = 0.99
 
 # default distance method, one of 'difflib', 'levenshtein', 'sorensen', or 'jaccard'
