@@ -1,0 +1,66 @@
+idDBLP,title,authors,venue,year,Row_ID,duplicate
+journals/sigmod/Liu02,editor's notes,l liu,sigmod record,2002,4,43
+journals/sigmod/RossFS02,reminiscences on influential papers,,,2002,15,93
+journals/sigmod/Aberer02,book review column,k aberer,sigmod record,2002,22,64
+journals/sigmod/Liu02a,editor's notes,l liu,sigmod record,2002,43,115
+journals/sigmod/Ozsu02,chair's message,,,2002,53,77
+journals/sigmod/Aberer02a,book review column,k aberer,sigmod record,2002,64,118
+journals/sigmod/Ozsu02a,chair's message,,,2002,77,2586
+journals/sigmod/SofferMC02,report on the mobile search workshop at www 2002,,,2002,82,84
+journals/sigmod/LeveneP02,report on the web dynamics workshop at www 2002,,,2002,84,95
+journals/sigmod/RossAJS02,reminiscences on influential papers,,,2002,93,122
+journals/sigmod/Liu02b,editor's notes,l liu,sigmod record,2002,115,2604
+journals/sigmod/Aberer02b,book review column,k aberer,sigmod record,2002,118,2599
+journals/sigmod/RossAA02,reminiscences on influential papers,,,2002,122,251
+journals/sigmod/RossHKRRSS01,reminiscences on influential papers,,,2001,148,223
+journals/sigmod/Liu01,editor's notes,,,2001,155,169
+journals/sigmod/Liu01a,editor's notes,l liu,sigmod record,2001,169,194
+journals/sigmod/Ozsu01,chair's message,,,2001,189,205
+journals/sigmod/Ozsu01a,chair's message,,,2001,205,377
+journals/sigmod/RossHLW01,reminiscences on influential papers,,,2001,223,374
+journals/sigmod/Dogac02,guest editor's introduction,,,2002,227,2589
+journals/sigmod/Franklin99b,editor's notes,m franklin,sigmod record,1999,266,478
+journals/sigmod/RossFLOSSVW00,reminiscences on influential papers,,,2000,269,303
+journals/sigmod/Snodgrass00,chair's message,,,2000,278,321
+journals/sigmod/Franklin00,editor's notes,m franklin,sigmod record,2000,295,330
+journals/sigmod/RossAKSSY00,reminiscences on influential papers,,,2000,303,343
+journals/sigmod/Snodgrass00a,chair's message,,,2000,321,360
+journals/sigmod/Franklin00a,editor's notes,m franklin,sigmod record,2000,330,354
+journals/sigmod/Franklin98a,editor's notes,m franklin,sigmod record,1998,394,426
+journals/sigmod/SnodgrassHMOPRRWY98,reminiscences on influential papers,,,1998,399,606
+journals/sigmod/Snodgrass98c,chair's message,,,1998,411,580
+journals/sigmod/SnodgrassACFLLORRSV99,reminiscences on influential papers,,,1999,419,480
+journals/sigmod/Franklin98b,editor's notes,m franklin,sigmod record,1998,426,598
+conf/sigmod/ShashaB02,"database tuning: principles, experiments, and troubleshooting techniques (part ii)","d shasha, p bonnet",sigmod conference,2002,449,451
+journals/sigmod/Snodgrass99,chair's message,,,1999,461,470
+journals/sigmod/Franklin99,editor's notes,m franklin,sigmod record,1999,478,484
+journals/sigmod/Snodgrass99b,reminiscences on influential papers,,,1999,480,508
+journals/sigmod/Snodgrass97a,chair's message,,,1997,521,545
+journals/sigmod/Franklin97a,editor's notes,m franklin,sigmod record,1997,534,568
+journals/sigmod/Franklin97,editor's notes,m franklin,sigmod record,1997,568,628
+journals/sigmod/Snodgrass98b,chair's message,,,1998,580,622
+conf/sigmod/Mohan02,tutorial: application servers and associated technologies,,,2002,587,2195
+conf/sigmod/GarofalakisGR02,querying and mining data streams: you only get one look a tutorial,,,2002,590,2194
+journals/sigmod/SnodgrassGIMSU98,reminiscences on influential papers,,,1998,606,637
+journals/sigmod/Widom96,editor's notes,j widom,sigmod record,1996,661,742
+journals/sigmod/Widom96b,editor's notes,jennifer widom,sigmod record,1996,742,768
+journals/sigmod/Alonso95,trade press news,,,1995,817,895
+journals/sigmod/X95,calls for papers and announcements,,sigmod record,1995,822,890
+journals/sigmod/Widom95a,editor's notes,j widom,sigmod record,1995,862,887
+journals/sigmod/Alonso94,trade press news,,,1994,897,1021
+journals/sigmod/Segev94a,editor's notes,a segev,sigmod record,1994,961,1000
+journals/sigmod/X94b,calls for papers / announcements,,sigmod record,1994,967,1018
+conf/sigmod/OConnellISWABCCLPWW96,a content-based multimedia server for massively parallel architectures,"w o'connell, i ieong, d schrader, c watson, g au, a biliris, s choo, p colin, g linderman, e panagos, j wang, t walters",sigmod conference,1996,1357,1489
+conf/sigmod/Ellison95,keynote address,,,1995,1630,1634
+journals/sigmod/Liu03c,editor's notes,l liu,sigmod record,2003,1826,1914
+journals/sigmod/RossGR03,reminiscences on influential papers,,,2003,1865,1935
+journals/sigmod/Aberer03d,book review column,k aberer,sigmod record,2003,1878,1981
+journals/sigmod/Ozsu03a,chair's message,,,2003,1895,1977
+journals/sigmod/Liu03b,editor's notes,l liu,sigmod record,2003,1914,1922
+journals/sigmod/Liu03a,editor's notes,l liu,sigmod record,2003,1922,2571
+journals/sigmod/CherniakV03,reminiscences on influential papers,,,2003,1935,1956
+journals/sigmod/RossNO03,reminiscences on influential papers,,,2003,1956,2611
+journals/sigmod/GottlobKP03a,xpath processing in a nutshell,,,2003,1973,1990
+journals/vldb/BernsteinIR03,guest editorial,,,2003,2281,2296
+journals/tods/Snodgrass01,editorial,,,2001,2331,2343
+journals/vldb/C94,"title, foreword",,,1994,2559,2563
